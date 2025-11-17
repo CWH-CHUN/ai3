@@ -75,13 +75,13 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     #   "videos": ["https://youtu.be/XXXXXXXXXXX"]
     # },
     labels[0]:{"texts":["박"],
-              "videos":[""]},
+              "videos":["https://www.youtube.com/watch?v=wmSlRoSsK68"]},
     labels[1]:{"texts":["윤"],
-              "videos":[""]},
+              "videos":["https://www.youtube.com/watch?v=wmSlRoSsK68"]},
     labels[2]:{"texts":["이"],
-"videos":[""]},
+"videos":["https://www.youtube.com/watch?v=wmSlRoSsK68"]},
     labels[3]:{"texts":["이"],
-"videos":[""]},
+"videos":["https://www.youtube.com/watch?v=wmSlRoSsK68"]},
 }
 
 # ======================
