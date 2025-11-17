@@ -75,13 +75,17 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     #   "videos": ["https://youtu.be/XXXXXXXXXXX"]
     # },
     labels[0]:{"texts":["박"],
-              "videos":["https://www.youtube.com/watch?v=wmSlRoSsK68"]},
+              "videos":["https://www.youtube.com/watch?v=wmSlRoSsK68"],
+              "images":["https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202309/09/07d95a8f-9b4d-4e52-9b23-d265c2f1f7bd.jpg"]},
     labels[1]:{"texts":["윤"],
-              "videos":["https://www.youtube.com/watch?v=wmSlRoSsK68"]},
+              "videos":["https://www.youtube.com/watch?v=wmSlRoSsK68"]
+              "images":["https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202309/09/07d95a8f-9b4d-4e52-9b23-d265c2f1f7bd.jpg"]},},
     labels[2]:{"texts":["이"],
-"videos":["https://www.youtube.com/watch?v=wmSlRoSsK68"]},
+"videos":["https://www.youtube.com/watch?v=wmSlRoSsK68"],
+              "images":["https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202309/09/07d95a8f-9b4d-4e52-9b23-d265c2f1f7bd.jpg"]},},
     labels[3]:{"texts":["이"],
-"videos":["https://www.youtube.com/watch?v=wmSlRoSsK68"]},
+"videos":["https://www.youtube.com/watch?v=wmSlRoSsK68"],
+              "images":["https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202309/09/07d95a8f-9b4d-4e52-9b23-d265c2f1f7bd.jpg"]},},
 }
 
 # ======================
